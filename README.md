@@ -8,15 +8,15 @@
 <a href="https://codepen.io/joaoderoldo" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" height=25></a>
 </p>
 
-💼 Atualmente estou trabalhando na [Yapay](https://yapay.com.br)  
+💼  Atualmente estou trabalhando na [Zé Delivery](https://ze.delivery/)
   
-👨‍🎓 Meu foco de aprendizado tem sido **Javascript, Animações com CSS e React**  
+👨‍🎓  Meu foco de aprendizado tem sido **Javascript, Animações com CSS e React**  
   
-👨‍💻 Um pouco mais sobre mim [https://joaov.com.br](https://joaov.com.br)  
+👨‍💻  Um pouco mais sobre mim [https://joaov.com.br](https://joaov.com.br)  
   
-📝 Costumo produzir conteúdo sobre programação no meu Linkedin. [https://www.linkedin.com/in/joaoderoldo](https://www.linkedin.com/in/joaoderoldo)  
+📝  Costumo produzir conteúdo sobre programação no meu Linkedin. [https://www.linkedin.com/in/joaoderoldo](https://www.linkedin.com/in/joaoderoldo)  
   
-📫 Caso queira entrar em contato comigo... **contato@joaov.com.br**
+📫  Caso queira entrar em contato comigo... **contato@joaov.com.br**
 
 <hr>
   
