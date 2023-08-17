@@ -8,7 +8,7 @@
 <a href="https://codepen.io/joaoderoldo" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" height=25></a>
 </p>
 
-💼  Atualmente estou trabalhando na [Zé Delivery](https://ze.delivery/)
+💼  Atualmente estou trabalhando na [NeuralMed](https://www.neuralmed.ai/)
   
 👨‍🎓  Meu foco de aprendizado tem sido **Javascript, Animações com CSS e React**  
   
