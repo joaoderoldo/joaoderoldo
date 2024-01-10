@@ -1,4 +1,4 @@
-<h1 align="left">Eai, prazer, João Deroldo 👋</h1>
+<h1 align="left">Hey there, I'm João Deroldo 👋</h1>
 <img align="right" alt="GIF" src="https://github.com/joaoderoldo/joaoderoldo/blob/main/assets/logo.png" width="200" height="200" />
 
 <p>
@@ -8,19 +8,19 @@
 <a href="https://codepen.io/joaoderoldo" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" height=25></a>
 </p>
 
-💼  Atualmente estou trabalhando na [NeuralMed](https://www.neuralmed.ai/)
+💼  Currently working at [NeuralMed](https://www.neuralmed.ai/)
   
-👨‍🎓  Meu foco de aprendizado tem sido **Javascript, Animações com CSS e React**  
+👨‍🎓  Learning focus on **Javascript, CSS Animations, and React**  
   
-👨‍💻  Um pouco mais sobre mim [https://joaov.com.br](https://joaov.com.br)  
+👨‍💻  More about me [https://joaov.com.br](https://joaov.com.br)  
   
-📝  Costumo produzir conteúdo sobre programação no meu Linkedin. [https://www.linkedin.com/in/joaoderoldo](https://www.linkedin.com/in/joaoderoldo)  
+📝  I usually share programming content on my LinkedIn. [https://www.linkedin.com/in/joaoderoldo](https://www.linkedin.com/in/joaoderoldo)  
   
-📫  Caso queira entrar em contato comigo... **contato@joaov.com.br**
+📫  If you want to get in touch... **contato@joaov.com.br**
 
 <hr>
   
-<h3 align="left">Alguma das tecnologias que tenho utilizado</h3>
+<h3 align="left">Some of the technologies I've been using</h3>
 
 <p align="left">
 <a href="https://www.w3.org/html/" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" /></a>
@@ -51,5 +51,5 @@
 <hr> 
   
 
-<h3 align="left">Eu ja te ajudei de alguma maneira? Me manda um café 💙</h3>  
+<h3 align="left">Did I help you in any way? Buy me a coffee 💙</h3>  
 <p><a href="https://www.buymeacoffee.com/joaoderoldo"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="joaoderoldo" /></a></p>
