@@ -8,7 +8,7 @@
 <a href="https://codepen.io/joaoderoldo" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" height=25></a>
 </p>
 
-💼  Currently working at [NeuralMed](https://www.neuralmed.ai/)
+💼  Currently working at [Enhancefitness](https://www.enhancefitness.com/)
   
 👨‍🎓  Learning focus on **Javascript, CSS Animations, and React**  
   
